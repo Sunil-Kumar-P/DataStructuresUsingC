@@ -1,0 +1,30 @@
+
+Enter the polynomials:
+ Enter the coefficient1:3
+
+ Enter the power of x:2
+
+ Enter the power of y:1
+
+ Enter the power of z:0
+
+ Enter the coefficient2:999
+
+The given polinomial is:3x^2y^1z^0
+Enter the polynomials:
+ Enter the coefficient1:9
+
+ Enter the power of x:3
+
+ Enter the power of y:1
+
+ Enter the power of z:0
+
+ Enter the coefficient2:999
+
+The given polinomial is:9x^3y^1z^0
+--------------------
+The sum of two polynomials is3x^2y^1z^09x^3y^1z^0
+--------------------------------
+Process exited after 208.4 seconds with return value 0
+Press any key to continue . . .

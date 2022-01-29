@@ -1,0 +1,51 @@
+
+Enter the polynomials:
+ Enter the coefficient1:6
+
+ Enter the power of x:2
+
+ Enter the power of y:2
+
+ Enter the power of z:1
+
+ Enter the coefficient2:-4
+
+ Enter the power of x:0
+
+ Enter the power of y:1
+
+ Enter the power of z:5
+
+ Enter the coefficient3:3
+
+ Enter the power of x:3
+
+ Enter the power of y:1
+
+ Enter the power of z:1
+
+ Enter the coefficient4:2
+
+ Enter the power of x:1
+
+ Enter the power of y:5
+
+ Enter the power of z:1
+
+ Enter the coefficient5:-2
+
+ Enter the power of x:1
+
+ Enter the power of y:1
+
+ Enter the power of z:3
+
+ Enter the coefficient6:999
+
+The given polinomial is:6x^2y^2z^1-4x^0y^1z^53x^3y^1z^12x^1y^5z^1-2x^1y^1z^3
+Enter the value of x, y, z:1 1 1
+
+the result of evaluation is 5
+--------------------------------
+Process exited after 145.6 seconds with return value 0
+Press any key to continue . . .
